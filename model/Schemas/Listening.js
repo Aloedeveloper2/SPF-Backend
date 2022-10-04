@@ -10,58 +10,6 @@ const ListeningSchema = new mongoose.Schema({
         type: String,
         required: false
     },
-    note1: {
-        type: String,
-        required: false
-    },
-    note2: {
-        type: String,
-        required: false
-    },
-    note3: {
-        type: String,
-        required: false
-    },
-    note4: {
-        type: String,
-        required: false
-    },
-    note5: {
-        type: String,
-        required: false
-    },
-    note6: {
-        type: String,
-        required: false
-    },
-    comment1: {
-        type: String,
-        required: false
-    },
-    comment2: {
-        type: String,
-        required: false
-    },
-    comment3: {
-        type: String,
-        required: false
-    },
-    comment4: {
-        type: String,
-        required: false
-    },
-    comment5: {
-        type: String,
-        required: false
-    },
-    comment6: {
-        type: String,
-        required: false
-    },
-    finalNote: {
-        type: String,
-        required: false
-    },
     filePath: {
         type: String,
         required: false
